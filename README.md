@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React- Java Fullstack Project**
 
-- 🌱 I’m currently learning **React , Spring Boot**
+- 🌱 I’m currently learning **React , Node**
 
 - 👯 I’m looking to collaborate on **Java Backend Services**
 
